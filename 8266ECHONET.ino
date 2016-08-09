@@ -29,7 +29,7 @@ void setup(){
   delay(10);
 
   // We start by connecting to a WiFi network
-  WiFi.begin("handazukecafe", "33313F313");
+  WiFi.begin("SSID", "passwd");
 
   Serial.print("Wait for WiFi... ");
 
